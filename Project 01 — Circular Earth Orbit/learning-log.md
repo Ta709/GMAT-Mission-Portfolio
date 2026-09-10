@@ -65,23 +65,23 @@ Mission run completed.
 - Current Script:
   ```
   Create Spacecraft SC;
-SC.DisplayStateType = Keplerian;
-SC.SMA = 7000;
-SC.ECC = 0;
-SC.INC = 28.5;
-SC.RAAN = 0;
-SC.AOP = 0;
-SC.TA = 0;
-BeginMissionSequence;
+  SC.DisplayStateType = Keplerian;
+  SC.SMA = 7000;
+  SC.ECC = 0;
+  SC.INC = 28.5;
+  SC.RAAN = 0;
+  SC.AOP = 0;
+  SC.TA = 0;
+  BeginMissionSequence;
   ```
 - Outcome:
   ```
   Interpreting scripts from the file.
-***** file: C:\Users\comp\CODE\GMAT-Portfolio\Project 01 — Circular Earth Orbit\circular-orbit.script
-Successfully interpreted the script
-Running mission...
-Mission run completed.
-===> Total Run Time: 0.053 seconds
+  ***** file: C:\Users\comp\CODE\GMAT-Portfolio\Project 01 — Circular Earth Orbit\circular-orbit.script
+  Successfully interpreted the script
+  Running mission...
+  Mission run completed.
+  ===> Total Run Time: 0.053 seconds
   ```
 
 

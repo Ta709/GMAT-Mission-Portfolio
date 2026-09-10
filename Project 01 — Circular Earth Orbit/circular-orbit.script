@@ -1,2 +1,11 @@
 Create Spacecraft SC;
+SC.DisplayStateType = Keplerian;
+SC.SMA = 7000;
+SC.ECC = 0;
+SC.INC = 28.5;
+SC.RAAN = 0;
+SC.AOP = 0;
+SC.TA = 0;
+
+
 BeginMissionSequence;
